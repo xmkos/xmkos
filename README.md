@@ -12,10 +12,10 @@ Currently a first-year student at DSW Wrocław, pursuing a Bachelor's in Compute
 `Unity` · `C#` · `URP` · `Animator` · `Physics` · `2D/3D Mechanics` · `Basic AI`
 
 **Programming & Backend:**  
-`Python` · `C++` · `Flask` · `FastAPI` · `Git` · `GitHub Actions (basic)`
+`Python` · `C++` · `Flask` · `FastAPI` · `Git` · `GitHub Actions (basic)` · `AWS (basic)`
 
 **Tools:**  
-`Unity Editor` · `VS Code` · `GitHub` · `LeetCode`
+`Unity Editor` · `Visual Studio` · `GitHub` · `LeetCode` · `Rider` · `Fork`
 
 ---
 
@@ -26,17 +26,17 @@ A desktop utility for comparing facial images, built with Python.
 Includes image import, face similarity algorithm, and simple UI for results.
 
 **🔧 Tech:** Python, OpenCV, Tkinter  
-**⏱️ Duration:** 2 weeks  
+**⏱️ Duration:** 3 weeks  
 **📝 Goal:** Efficient face comparison with clear results and easy usability
 
 ---
 
 ### 🕹️ Game Jam Projects
-Participated in several small-scale jams. Focused on:
+Participated in several small-scale jams. There's even one example on my github. Focused on:
 
 - UI systems
 - Enemy behavior scripting
-- Object interaction (doors, pickups, triggers)
+- Object interaction (doors, pickups, triggers, other types of interactions)
 - Scene transitions & level flow
 
 **💡 Role:** Gameplay Programmer / Systems  
@@ -64,11 +64,10 @@ Early stage, currently designing AI logic for enemies and boss encounters.
 ---
 
 ## 🌍 Languages
-
-- 🇺🇦 Ukrainian – Native  
-- 🇷🇺 Russian – Native  
 - 🇬🇧 English – B2+  
+- 🇺🇦 Ukrainian – Native
 - 🇵🇱 Polish – B1+
+- 🇷🇺 Russian – Native ( preffer not to use )  
 
 ---
 
