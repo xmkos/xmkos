@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Kostiantyn — Junior Game Developer
 
-<!--
-**xmkos/xmkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Unity Developer | Backend Enthusiast | Game Jam Survivor**
 
-Here are some ideas to get you started:
+Currently a first-year student at DSW Wrocław, pursuing a Bachelor's in Computer Science (Game Development specialization). Passionate about building immersive gameplay systems and smart enemy AI. I enjoy combining code, creativity, and collaboration to bring game ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Game Development:**  
+`Unity` · `C#` · `URP` · `Animator` · `Physics` · `2D/3D Mechanics` · `Basic AI`
+
+**Programming & Backend:**  
+`Python` · `C++` · `Flask` · `FastAPI` · `Git` · `GitHub Actions (basic)`
+
+**Tools:**  
+`Unity Editor` · `VS Code` · `GitHub` · `LeetCode`
+
+---
+
+## 🚀 Projects
+
+### 🧠 Face Comparison Tool
+A desktop utility for comparing facial images, built with Python.  
+Includes image import, face similarity algorithm, and simple UI for results.
+
+**🔧 Tech:** Python, OpenCV, Tkinter  
+**⏱️ Duration:** 2 weeks  
+**📝 Goal:** Efficient face comparison with clear results and easy usability
+
+---
+
+### 🕹️ Game Jam Projects
+Participated in several small-scale jams. Focused on:
+
+- UI systems
+- Enemy behavior scripting
+- Object interaction (doors, pickups, triggers)
+- Scene transitions & level flow
+
+**💡 Role:** Gameplay Programmer / Systems  
+**🧰 Engine:** Unity (2D/3D)  
+**🎯 Goal:** Rapid prototyping with functional gameplay loops
+
+---
+
+### ⚔️ Indie RPG (In Progress)
+Working with friends on a mobile RPG for Android.  
+Early stage, currently designing AI logic for enemies and boss encounters.
+
+**📱 Platform:** Android  
+**⚙️ Role:** Enemy AI logic, movement behavior, decision trees  
+**🎯 Goal:** Vertical slice prototype by end of semester
+
+---
+
+## 🎓 Education
+
+**📍 DSW University, Wrocław (Poland)**  
+`B.Sc. in Computer Science – Game Development`  
+`Oct 2024 → Mar 2028` (In progress)
+
+---
+
+## 🌍 Languages
+
+- 🇺🇦 Ukrainian – Native  
+- 🇷🇺 Russian – Native  
+- 🇬🇧 English – B2+  
+- 🇵🇱 Polish – B1+
+
+---
+
+## 📬 Contact
+
+- 📧 keiiji.work@gmail.com  
+- 🌍 [LeetCode Profile](https://leetcode.com/u/xmkos)  
+- 💻 [GitHub](https://github.com/xmkos)  
+- 📍 Wrocław, Poland  
+
+---
+
+> 🧩 *"Looking for internship or junior Unity developer roles. Eager to learn, contribute, and grow with a passionate team!"*
+
