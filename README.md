@@ -1,84 +1,124 @@
-# 👋 Hi, I'm Kostiantyn — Junior Game Developer
+```markdown
+# 👋 Hi! I'm Kostiantyn — Junior Game Developer
 
-🎮 **Unity Developer | Backend Enthusiast | Game Jam Survivor**
+🎮 **Unity Developer | Gameplay Programmer | Game Jam Enthusiast**
 
-Currently a first-year student at DSW Wrocław, pursuing a Bachelor's in Computer Science (Game Development specialization). Passionate about building immersive gameplay systems and smart enemy AI. I enjoy combining code, creativity, and collaboration to bring game ideas to life.
+Second-year Computer Science student at DSW Wrocław, specializing in Game Development. I build immersive gameplay systems, smart enemy AI, and interactive mechanics. My goal is to combine technical skills with creative problem-solving to craft engaging player experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Game Development:**  
-`Unity` · `C#` · `URP` · `Animator` · `Physics` · `2D/3D Mechanics` · `Basic AI`
+`Unity` · `C#` · `URP` · `Animator Controller` · `Physics Systems` · `2D/3D Gameplay` · `AI Behavior`
 
 **Programming & Backend:**  
-`Python` · `C++` · `Flask` · `FastAPI` · `Git` · `GitHub Actions (basic)` · `AWS (basic)`
+`Python` · `C++` · `Flask` · `FastAPI` · `Git` · `GitHub Actions` · `AWS (basics)`
 
-**Tools:**  
-`Unity Editor` · `Visual Studio` · `GitHub` · `LeetCode` · `Rider` · `Fork`
+**Machine Learning:**  
+`scikit-learn` · `pandas` · `numpy` · `TensorFlow/Keras` · `Data Preprocessing`
+
+**Tools & Workflow:**  
+`Unity Editor` · `Visual Studio` · `Rider` · `GitHub` · `Fork` · `LeetCode`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 🌦️ ML-Based Weather Forecasting System
+Advanced weather prediction tool utilizing multiple machine learning algorithms and real-time API integration. Built comprehensive system with CLI, GUI, and demo modes for flexible user interaction.
+
+**🔧 Tech:** Python 3.9+, scikit-learn, pandas, numpy, tkinter, OpenWeatherMap API  
+**⏱️ Duration:** Multi-week development cycle  
+**⚙️ Key Features:**
+- Implemented 6 ML models: Random Forest, Gradient Boosting, Ridge Regression, Elastic Net, SVM, Neural Networks
+- Real-time weather data collection and preprocessing
+- Feature engineering and model evaluation pipeline
+- Multiple user interfaces (CLI, GUI, demo mode)
+- Comprehensive testing suite (~103 tests) with robust error handling
+
+**🎯 Outcome:** Fully functional prediction system with accurate forecasts and intuitive interfaces
+
+
+---
+
+### 🃏 Card Battle System (Game Jam)
+A turn-based card game developed during a 48-hour game jam. Designed and implemented a complete card combat system with dynamic gameplay mechanics.
+
+**🔧 Tech:** Unity, C#  
+**💡 Role:** Gameplay Programmer  
+**⚙️ Key Features:**
+- Card logic system (attack, defense, cost mechanics)
+- Smooth card movement and positioning on the battlefield
+- Dynamic card attributes (health, damage, special abilities)
+- Turn-based flow with player/enemy interaction
+
+**🎯 Outcome:** Functional prototype with polished card behaviors and responsive UI
+
+---
+
+### 🕹️ Game Jam Collection
+Participated in multiple game jams with focus on rapid prototyping and core gameplay systems. Explored diverse mechanics and team collaboration under tight deadlines.
+
+**💡 Role:** Gameplay Programmer / Systems Designer  
+**🧰 Engine:** Unity (2D/3D)  
+**⚙️ Contributions:**
+- UI system implementation and player feedback
+- Enemy behavior scripting (patrol, chase, attack patterns)
+- Interactive objects (doors, pickups, triggers, switches)
+- Scene management and level transitions
+
+**🎯 Takeaway:** Strong prototyping skills and ability to deliver functional gameplay loops quickly
+
+---
 
 ### 🧠 Face Comparison Tool
-A desktop utility for comparing facial images, built with Python.  
-Includes image import, face similarity algorithm, and simple UI for results.
+Desktop application for facial similarity analysis using computer vision. Built as a learning project to explore image processing and algorithm implementation.
 
 **🔧 Tech:** Python, OpenCV, Tkinter  
-**⏱️ Duration:** 3 weeks  
-**📝 Goal:** Efficient face comparison with clear results and easy usability
+**⏱️ Duration:** 2 weeks  
+**📝 Features:** Image import, face detection algorithm, visual comparison results with intuitive UI
 
 ---
 
-### 🕹️ Game Jam Projects
-Participated in several small-scale jams. There's even one example on my github. Focused on:
-
-- UI systems
-- Enemy behavior scripting
-- Object interaction (doors, pickups, triggers, other types of interactions)
-- Scene transitions & level flow
-
-**💡 Role:** Gameplay Programmer / Systems  
-**🧰 Engine:** Unity (2D/3D)  
-**🎯 Goal:** Rapid prototyping with functional gameplay loops
-
----
-
-### ⚔️ Indie RPG (In Progress)
-Working with friends on a mobile RPG for Android.  
-Early stage, currently designing AI logic for enemies and boss encounters.
+### ⚔️ Indie Mobile RPG (In Development)
+Collaborative mobile RPG project for Android with team of developers. Currently in early prototyping phase with focus on combat systems and AI architecture.
 
 **📱 Platform:** Android  
-**⚙️ Role:** Enemy AI logic, movement behavior, decision trees  
-**🎯 Goal:** Vertical slice prototype by end of semester
+**⚙️ Role:** Enemy AI Programmer  
+**🎯 Responsibilities:**
+- Enemy AI logic and decision trees
+- Movement behaviors and pathfinding
+- Boss encounter mechanics
+- Combat system integration
+
+**📅 Goal:** Vertical slice prototype
 
 ---
 
 ## 🎓 Education
 
 **📍 DSW University, Wrocław (Poland)**  
-`B.Sc. in Computer Science – Game Development`  
-`Oct 2024 → Mar 2028` (In progress)
+`B.Sc. Computer Science – Game Development Specialization`  
+`Oct 2024 → Mar 2028` (In Progress - 2nd Year)
 
 ---
 
 ## 🌍 Languages
-- 🇬🇧 English – B2+  
-- 🇺🇦 Ukrainian – Native
-- 🇵🇱 Polish – B1+
-- 🇷🇺 Russian – Native ( preffer not to use )  
+- 🇬🇧 **English** – B2+ (Professional working proficiency)
+- 🇺🇦 **Ukrainian** – Native  
+- 🇵🇱 **Polish** – B1+ (Conversational)
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
 - 📧 keiiji.work@gmail.com  
-- 🌍 [LeetCode Profile](https://leetcode.com/u/xmkos)  
 - 💻 [GitHub](https://github.com/xmkos)  
+- 🌍 [LeetCode Profile](https://leetcode.com/u/xmkos)  
 - 📍 Wrocław, Poland  
 
 ---
 
-> 🧩 *"Looking for internship or junior Unity developer roles. Eager to learn, contribute, and grow with a passionate team!"*
-
+> 🧩 *"Actively seeking internship or junior Unity developer positions. Ready to learn, contribute, and grow alongside a passionate development team!"*
+```
