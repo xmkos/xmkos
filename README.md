@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi! I'm Kostiantyn — Junior Game Developer
 
 🎮 **Unity Developer | Gameplay Programmer | Game Jam Enthusiast**
@@ -121,4 +120,3 @@ Collaborative mobile RPG project for Android with team of developers. Currently 
 ---
 
 > 🧩 *"Actively seeking internship or junior Unity developer positions. Ready to learn, contribute, and grow alongside a passionate development team!"*
-```
