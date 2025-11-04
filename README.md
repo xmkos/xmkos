@@ -1,122 +1,72 @@
-# 👋 Hi! I'm Kostiantyn — Junior Game Developer
+# Kostiantyn Kovalchuk · Game Developer & ML Engineer
 
-🎮 **Unity Developer | Gameplay Programmer | Game Jam Enthusiast**
+## 👋 Hi! I'm Kostiantyn
 
-Second-year Computer Science student at DSW Wrocław, specializing in Game Development. I build immersive gameplay systems, smart enemy AI, and interactive mechanics. My goal is to combine technical skills with creative problem-solving to craft engaging player experiences.
+Second-year computer science student at DSW Wrocław, building Unity game jam prototypes and machine learning tools. Focused on **clean code, rapid iteration, and maintainable systems**.
+
+---
+
+## 🧑‍💻 About Me
+
+I build game prototypes and machine learning pipelines with a focus on *clean architecture* and *rapid iteration*.
+- **Unity:** Combat systems, AI behaviors, and shader work, honed through game jam sprints.
+- **Machine Learning:** Time-series forecasting and computer vision with reproducible workflows.
+- **Development:** Modular solutions for long-term support and test-driven development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Game Development:**  
-`Unity` · `C#` · `URP` · `Animator Controller` · `Physics Systems` · `2D/3D Gameplay` · `AI Behavior`
+**Game Development**  
+Unity, C#, ShaderLab, HLSL, AI state machines, Combat systems, Game jams
 
-**Programming & Backend:**  
-`Python` · `C++` · `Flask` · `FastAPI` · `Git` · `GitHub Actions` · `AWS (basics)`
+**Machine Learning**  
+Python, scikit-learn, pandas, numpy, Time-series forecasting, Cross-validation
 
-**Machine Learning:**  
-`scikit-learn` · `pandas` · `numpy` · `TensorFlow/Keras` · `Data Preprocessing`
+**Computer Vision**  
+Python, OpenCV, Haar cascades, Face detection, Feature extraction
 
-**Tools & Workflow:**  
-`Unity Editor` · `Visual Studio` · `Rider` · `GitHub` · `Fork` · `LeetCode`
+**Dev Tools**  
+Git, GitHub, VS Code, Visual Studio, Jupyter, CLI workflows
 
----
-
-## 🚀 Featured Projects
-
-### 🌦️ ML-Based Weather Forecasting System
-Advanced weather prediction tool utilizing multiple machine learning algorithms and real-time API integration. Built comprehensive system with CLI, GUI, and demo modes for flexible user interaction.
-
-**🔧 Tech:** Python 3.9+, scikit-learn, pandas, numpy, tkinter, OpenWeatherMap API  
-**⏱️ Duration:** Multi-week development cycle  
-**⚙️ Key Features:**
-- Implemented 6 ML models: Random Forest, Gradient Boosting, Ridge Regression, Elastic Net, SVM, Neural Networks
-- Real-time weather data collection and preprocessing
-- Feature engineering and model evaluation pipeline
-- Multiple user interfaces (CLI, GUI, demo mode)
-- Comprehensive testing suite (~103 tests) with robust error handling
-
-**🎯 Outcome:** Fully functional prediction system with accurate forecasts and intuitive interfaces
-
+**Languages**  
+English (B2+ Professional), Ukrainian (Native), Polish (B1+ Conversational)
 
 ---
 
-### 🃏 Card Battle System (Game Jam)
-A turn-based card game developed during a 48-hour game jam. Designed and implemented a complete card combat system with dynamic gameplay mechanics.
+## 🌟 Featured Projects
 
-**🔧 Tech:** Unity, C#  
-**💡 Role:** Gameplay Programmer  
-**⚙️ Key Features:**
-- Card logic system (attack, defense, cost mechanics)
-- Smooth card movement and positioning on the battlefield
-- Dynamic card attributes (health, damage, special abilities)
-- Turn-based flow with player/enemy interaction
+- **ML-based Weather Forecasting**  
+  *Python* — A weather predictor that ingests historical data to forecast short-term conditions with a reproducible pipeline.
 
-**🎯 Outcome:** Functional prototype with polished card behaviors and responsive UI
+- **Face Comparison Application**  
+  *Python* — Detects and compares faces in images to estimate similarity and flag likely matches.
 
----
+- **Unity Game Jam Prototypes**  
+  *Unity, C#, ShaderLab, HLSL* — Fast-paced Unity prototypes built for jams, emphasizing readable combat and responsive controls.
 
-### 🕹️ Game Jam Collection
-Participated in multiple game jams with focus on rapid prototyping and core gameplay systems. Explored diverse mechanics and team collaboration under tight deadlines.
-
-**💡 Role:** Gameplay Programmer / Systems Designer  
-**🧰 Engine:** Unity (2D/3D)  
-**⚙️ Contributions:**
-- UI system implementation and player feedback
-- Enemy behavior scripting (patrol, chase, attack patterns)
-- Interactive objects (doors, pickups, triggers, switches)
-- Scene management and level transitions
-
-**🎯 Takeaway:** Strong prototyping skills and ability to deliver functional gameplay loops quickly
-
----
-
-### 🧠 Face Comparison Tool
-Desktop application for facial similarity analysis using computer vision. Built as a learning project to explore image processing and algorithm implementation.
-
-**🔧 Tech:** Python, OpenCV, Tkinter  
-**⏱️ Duration:** 2 weeks  
-**📝 Features:** Image import, face detection algorithm, visual comparison results with intuitive UI
-
----
-
-### ⚔️ Indie Mobile RPG (In Development)
-Collaborative mobile RPG project for Android with team of developers. Currently in early prototyping phase with focus on combat systems and AI architecture.
-
-**📱 Platform:** Android  
-**⚙️ Role:** Enemy AI Programmer  
-**🎯 Responsibilities:**
-- Enemy AI logic and decision trees
-- Movement behaviors and pathfinding
-- Boss encounter mechanics
-- Combat system integration
-
-**📅 Goal:** Vertical slice prototype
+- **Game Knight Combat Testbed**  
+  *Unity* — Sandbox for tuning combat feel, animation flow, and encounter pacing.
 
 ---
 
 ## 🎓 Education
 
-**📍 DSW University, Wrocław (Poland)**  
-`B.Sc. Computer Science – Game Development Specialization`  
-`Oct 2024 → Mar 2028` (In Progress - 2nd Year)
+**DSW University, Wrocław (Poland)**  
+B.Sc. in Computer Science — Game Development Specialization  
+_Expected graduation: March 2028 (Year 2, 25% complete)_
 
 ---
 
-## 🌍 Languages
-- 🇬🇧 **English** – B2+ (Professional working proficiency)
-- 🇺🇦 **Ukrainian** – Native  
-- 🇵🇱 **Polish** – B1+ (Conversational)
+## 📬 Contact
+
+- **Email:** keiiji.work@gmail.com
+- **Location:** Wrocław, Poland
+- **LinkedIn:** [Kostiantyn Kovalchuk](https://www.linkedin.com/in/kostiantyn-kovalchuk-960b40233/)
+- **GitHub:** [xmkos](https://github.com/xmkos)
 
 ---
 
-## 📬 Let's Connect
+**Ready to collaborate on game development, ML engineering, or computer vision projects.** Open to internships, junior roles, and freelance work!
 
-- 📧 keiiji.work@gmail.com  
-- 💻 [GitHub](https://github.com/xmkos)  
-- 🌍 [LeetCode Profile](https://leetcode.com/u/xmkos)  
-- 📍 Wrocław, Poland  
-
----
-
-> 🧩 *"Actively seeking internship or junior Unity developer positions. Ready to learn, contribute, and grow alongside a passionate development team!"*
+© 2025 Kostiantyn Kovalchuk. All rights reserved.
