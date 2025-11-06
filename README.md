@@ -30,7 +30,7 @@ Python, OpenCV, Haar cascades, Face detection, Feature extraction
 Git, GitHub, VS Code, Visual Studio, Jupyter, CLI workflows
 
 **Languages**  
-English (B2+ Professional), Ukrainian (Native), Polish (B1+ Conversational)
+English (C1 Professional), Ukrainian (Native), Polish (B2 Conversational)
 
 ---
 
