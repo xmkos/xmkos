@@ -8,7 +8,7 @@
 
 **PROFESSIONAL SUMMARY**
 
-Results-oriented Game Developer with a strong foundation in **C++** and **C\#**, currently pursuing a B.Sc. in Computer Science. Passionate about building robust game systems, from low-level engine mechanics to high-level AI behavior. Proven ability to deliver optimized code in fast-paced environments (Game Jams), create custom **debugging tools**, and maintain technical **documentation**. Eager to leverage algorithmic knowledge and **3D math** skills to contribute to commercial game projects.
+Results-oriented Game Developer with a strong foundation in **C++** and **C\#**, currently pursuing a B.Sc. in Information Technologies. Passionate about building robust game systems, from low-level engine mechanics to high-level AI behavior. Proven ability to deliver optimized code in fast-paced environments (Game Jams), create custom **debugging tools**, and maintain technical **documentation**. Eager to leverage algorithmic knowledge and **3D math** skills to contribute to commercial game projects.
 
 ---
 
@@ -58,7 +58,7 @@ Results-oriented Game Developer with a strong foundation in **C++** and **C\#**,
 
 ## **EDUCATION**
 
-**B.Sc. Computer Science — Game Development Specialization** 
+**B.Sc. Information Technologies — Game Development Specialization** 
 
 *DSW University, Wrocław* *October 2024 – March 2028 (Expected)*
 
